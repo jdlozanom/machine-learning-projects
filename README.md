@@ -21,13 +21,14 @@ Just a compilation of interesting machine learning projects.
 ### First Order Motion Model for Image Animation <a name="image-animation"></a>
 Image animation based on a video source. 
 
-2019-12-24
+2019-12
 
-![alt text](https://aliaksandrsiarohin.github.io/first-order-model-website/vox-teaser.gif)
+![alt text](https://github.com/AliaksandrSiarohin/first-order-model/blob/master/sup-mat/relative-demo.gif?raw=true)
 
 #### Links  
  - [Code](https://github.com/AliaksandrSiarohin/first-order-model)
  - [Paper](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation)
+ - [Colab](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
  
 ### TecoGAN <a name="TecoGAN"></a>
 Video frame rescaler. 
