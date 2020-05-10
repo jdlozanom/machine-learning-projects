@@ -8,6 +8,8 @@ Just a compilation of interesting machine learning projects.
     1. [DAIN (Depth-Aware Video Frame Interpolation)](#DAIN)
 1. [Photo](#photo)
     1. [CVPR2020 Adversarial Latent Autoencoders](#CVPR2020)
+1. [text](#text)
+    1. [gpt-2](#gpt2)
 1. [Music](#music)
     1. [Jukebox](#jukebox)
 1. [Audio](#audio)
@@ -55,14 +57,21 @@ Video frame intepolation.
 
 ## Photo  <a name="photo"></a>
 ### [CVPR2020] Adversarial Latent Autoencoders <a name="CVPR2020"></a>
-Image generator based on StyleGAN.
+Image generator based on StyleGAN. 
+
+2020-04-09
 ![alt text](https://camo.githubusercontent.com/e2a1f2fce8f930d4e62bf0d92b936a603aad90b7/68747470733a2f2f706f64676f72736b69792e636f6d2f7374617469632f7374796c656d69782e6a7067)
 ![alt text](https://user-images.githubusercontent.com/3229783/79670218-63080d80-818f-11ea-9e50-927b8af3e7b5.gif)
-#### Date
-2020-04-09
 #### Links  
  - [Code](https://github.com/podgorskiy/ALAE)
  - [Paper](https://arxiv.org/pdf/2004.04467.pdf)
+  
+## Text  <a name="text"></a>
+### gpt-2<a name="gpt2"></a>
+GPT-2 is a large transformer-based language model with 1.5 billion parameters, trained on a dataset of 8 million web pages. GPT-2 is trained with a simple objective: predict the next word, given all of the previous words within some text. The diversity of the dataset causes this simple goal to contain naturally occurring demonstrations of many tasks across diverse domains.
+#### Links  
+ - [Code](https://github.com/openai/gpt-2)
+ - [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
   
   
 ## Music <a name="music"></a>
