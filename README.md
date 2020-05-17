@@ -12,6 +12,7 @@ Just a compilation of interesting machine learning projects.
     1. [gpt-2](#gpt2)
 1. [Music](#music)
     1. [Jukebox](#jukebox)
+    1. [Music Source Separation in the Waveform Domain](#demucs)
 1. [Audio](#audio)
     1. [Real-Time Voice Cloning](#voice-cloning)
 1. [Resources](#resources)
@@ -83,6 +84,15 @@ Provided with genre, artist, and lyrics as input, Jukebox outputs a new music sa
  - [Code](https://github.com/openai/jukebox)
  - [Paper](https://cdn.openai.com/papers/jukebox.pdf)
  - [Colab notebook](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb)
+
+### [DEMUCS] Music Source Separation in the Waveform Domain <a name="demucs"></a>
+Separate drums, bass and vocals from the rest with state-of-the-art results
+
+2019-12
+#### Links  
+ - [Code](https://github.com/facebookresearch/demucs)
+ - [Paper](https://hal.archives-ouvertes.fr/hal-02379796/document)
+ - [Colab notebook (by marlluslustosa)](https://github.com/marlluslustosa/demucs/blob/master/Lulu_Demucs.ipynb)
   
   
 ## Audio <a name="audio"></a>
